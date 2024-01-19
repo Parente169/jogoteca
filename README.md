@@ -1,0 +1,1 @@
+Jogoteca desenvolvida com Django
